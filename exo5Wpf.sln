@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo5Wpf", "exo5Wpf\exo5Wpf.csproj", "{4D49DB58-B02D-4243-91FD-0AE55F02243B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D49DB58-B02D-4243-91FD-0AE55F02243B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D49DB58-B02D-4243-91FD-0AE55F02243B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D49DB58-B02D-4243-91FD-0AE55F02243B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D49DB58-B02D-4243-91FD-0AE55F02243B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03D6C437-13AF-461F-A973-E466EE25374A}
+	EndGlobalSection
+EndGlobal
